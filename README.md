@@ -2,6 +2,7 @@
 JavaScript Web application that fetches and displays repositories using fetch and promise ES6. Also work with functions, events, loops and more. and Materialcss
 
 `Set github.js`
+
 class Github {
 
   constructor() {
