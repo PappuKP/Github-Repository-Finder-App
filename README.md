@@ -10,13 +10,13 @@ Have Enjoy
 `Set github.js`
 
 class Github {
-
-  constructor() {
-    this.client_id = 'xxxxxxxxxxxxxxxxxxxx';
-    this.client_secret = 'xxxxxxxxxxxxxxxxxxxxxxx';
-    this.repo_count = 4;
-  }
-
+</br>
+  constructor() {</br>
+    this.client_id = 'xxxxxxxxxxxxxxxxxxxx';</br>
+    this.client_secret = 'xxxxxxxxxxxxxxxxxxxxxxx';</br>
+    this.repo_count = 4;</br>
+  }</br>
+</br>
 <img src="Screenshot (828).png">
 <img src="Screenshot (829).png">
 <img src="Screenshot (830).png">
